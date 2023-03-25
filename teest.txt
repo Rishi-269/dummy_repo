@@ -1,4 +1,7 @@
 abcd
+void quicksort(){
+	//code
+}
 
 int main(){
 	printf("herro");
