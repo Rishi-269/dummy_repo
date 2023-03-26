@@ -3,6 +3,10 @@ void quicksort(){
 	//code
 }
 
+void merge(){
+	//
+}
+
 int main(){
 	printf("herro");
 }
