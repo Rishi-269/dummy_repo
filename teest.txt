@@ -3,6 +3,10 @@ void quicksort(){
 	//code
 }
 
+void insertionsort(){
+	//
+}
+
 void merge(){
 	//
 }
